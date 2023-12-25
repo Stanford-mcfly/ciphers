@@ -1,9 +1,3 @@
-/***************************************/
-/*     HUFFMAN ENCODING PROGRAM        */
-/* CREATED BY ADEESHA SAVINDA DE SILVA */
-/*           12 June 2016              */
-/*     adeesha.savinda@gmail.com       */
-/***************************************/
 
 #include <stdio.h>
 #include <string.h>
@@ -166,8 +160,6 @@ int main(int argc, char* argv[]){
 
 	system("clear");
 	printf("**********************************************************************\n");
-	printf("                      COMMUNICATION  ENGINEERING\n");
-	printf("                                 SHU M.Eng\n");
 	printf("                             -HUFFMAN ENCODER-\n");
 	printf("**********************************************************************\n\n");
 
